@@ -9,6 +9,10 @@ All information on courses, course groupings and subject groupings is obtained f
 # Help
 Use *procas_help(Topic)* to view help messages on various system functions e.g. *procas_help(ver)* to view the System version information, or *procas_help()* to view this help message.
 
+# Plans for the future
+- update the course names of the *course/4* facts to show a more user friendly course name
+- add more preference choices to further personalize the recommendation(s) given
+
 # Credits
 ## Dev Team
 - Murugu Kenneth Kimotho
